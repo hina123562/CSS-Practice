@@ -1,18 +1,18 @@
 body{
     background-image: url("mangobg.jpg.webp");
-    background-color: lightyellow;
+    background-color: mistyrose;
     max-width: 100%;
     height: auto;
 
 }
 h1{
-    color: darkgreen;
+    color: orange;
     text-align: center;
     font-size: 50px;
     font-family: Georgia;
 }
 h2{
-    color: darkred;
+    color: dar blue;
     text-align: left;
     font-size: 35px;
 }
